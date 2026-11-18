@@ -1,0 +1,19 @@
+{
+  "name": "waveform-grid-ai-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Simulate crypto grid trading for BTC, ETH and BNB using live exchange prices. Build arithmetic or geometric grids, adjust price ranges and fees, and test level crossings as prices move.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test",
+    "check": "node --check src/market.js && node --check src/strategies.js && node --check web/app.js && node --check web/config.js && node --check scripts/set-pages-url.mjs && node --check scripts/dev.mjs",
+    "validate": "node scripts/validate-artifact.mjs",
+    "pages:links": "node scripts/set-pages-url.mjs"
+  }
+}
